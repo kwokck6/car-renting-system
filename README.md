@@ -1,4 +1,4 @@
-# 2022T2-CSCI3170-Project (Group 2)
+# Car Renting System (Group 2)
 
 ### Member list
 - Jason,   Chan Wing Kit,  1155142198
